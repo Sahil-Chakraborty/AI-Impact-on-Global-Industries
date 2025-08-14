@@ -1,26 +1,27 @@
 # Impact of AI usage on Global Industries
 ## 📌 Overview
-This project analyzes the global adoption of AI in media content creation, covering trends in content types, industry usage, regional adoption, and ethical considerations. Using statistical data and visualizations, it highlights how AI is shaping the way media is produced and consumed worldwide.
+This project analyzes global AI adoption across industries and regions from 2020 to 2025, covering trends in content generation, industry applications, regional market shifts, revenue impact, job displacement, collaboration with humans, and public trust. Using statistical data and visualizations, it reveals how AI is transforming sectors like Gaming, Finance, Healthcare, Manufacturing, and Education, while reshaping global market share dynamics among the USA, UK, China, and India. The study highlights both the opportunities—innovation, efficiency, growth—and the challenges—workforce shifts, ethical concerns—of AI integration.
+
 
 ## 📊 Dataset
-The dataset contains information on:
-- AI adoption rates across different industries
-- Types of content generated using AI
-- Regional distribution of AI adoption
-- Benefits and challenges of AI usage
-- Ethical concerns and public perception
-
-**Source:** [Your Dataset Source Here]
+The dataset includes detailed records on:
+- **AI adoption rates** across various countries and industries
+- **Volume of AI-generated content** (in TBs per year)
+- **Impact on workforce**, including job loss percentages and human-AI collaboration rates
+- **Business outcomes**, such as revenue increase due to AI
+- **Top AI tools** used in different sectors
+- **Regulation status** by country
+- **Consumer trust** in AI and market share of AI companies
 
 ---
 
 ## 📈 Analysis Performed
 The analysis includes:
-- Comparative analysis of AI adoption across industries
-- Distribution of AI-generated content types
-- Geographic adoption patterns
-- Perceived benefits and challenges
-- Ethical concerns breakdown
+- AI adoption rates across different industries
+- Economic Impact
+- Human-AI Collaboration
+- Trade-offs & Risks
+- Market Trends of AI in last 5 Years
 
 ---
 
